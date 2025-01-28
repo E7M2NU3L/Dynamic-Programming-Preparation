@@ -39,4 +39,29 @@ public class tribonacci implements lessons {
     public int performMinChange(int amount, List<Integer> coins) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
+
+    @Override
+    public int performCountPath(List<List<String>> grid) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performfindMaxPath(List<List<Integer>> grid) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performNonAdjacentSum(List<Integer> array) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performfindMinPerfectSquares(int number) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performGivecoins(int number, List<Integer> coins) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

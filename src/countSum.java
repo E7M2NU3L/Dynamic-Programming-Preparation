@@ -43,7 +43,31 @@ public class countSum implements lessons {
 
     @Override
     public int performMinChange(int amount, List<Integer> coins) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'performMinChange'");
+    }
+
+    @Override
+    public int performCountPath(List<List<String>> grid) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performfindMaxPath(List<List<Integer>> grid) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performNonAdjacentSum(List<Integer> array) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performfindMinPerfectSquares(int number) {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
+
+    @Override
+    public int performGivecoins(int number, List<Integer> coins) {
+        throw new UnsupportedOperationException("Not supported yet.");
     }
 }
